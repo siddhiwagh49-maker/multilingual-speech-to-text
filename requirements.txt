@@ -1,0 +1,4 @@
+SpeechRecognition
+gTTS
+PyAudio
+customtkinter
